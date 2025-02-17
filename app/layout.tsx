@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://bokepjavclick.pages.dev"),
+    metadataBase: new URL("https://vibokep.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: 'OmKX2QOAp7DkhFfH4rQWll0fuLtzBY5XsYrKlp0ssas',
-        yandex: 'b4f8b16346e212a8',
+        google: 'HkqRDUV-U5SXMaxBr6RmrGVsq9ccPUXf7uij_qNJU7M',
+        yandex: 'd25c067a3de0e200',
     },
 };
 
@@ -37,12 +37,12 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://bokepjavclick.pages.dev/favicon.ico",
-        "url": "https://bokepjavclick.pages.dev",
+        "logo": "https://vibokep.pages.dev/favicon.ico",
+        "url": "https://vibokep.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepjavclick.pages.dev"
+            "url":"https://vibokep.pages.dev"
             },
             "foundingDate":"2024-06-10"
         }
@@ -50,11 +50,11 @@ export default function RootLayout({
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepjavclick.pages.dev",
+        "url": "https://vibokep.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepjavclick.pages.dev/?q={search_term}", 
+          "target": "https://vibokep.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
